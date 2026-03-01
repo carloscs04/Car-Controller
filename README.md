@@ -1,6 +1,6 @@
 # Car Controller System
 
-![Car Assembly](docs\04-media\03-showcase\car_assembly_03.JPG)
+![Car Assembly](https://github.com/carloscs04/Car-Controller/blob/e58623840ee8ec12a29992d9f1beb12d3f2ef434/docs/04-media/03-showcase/car_assembly_03.JPG)
 
 ---
 
